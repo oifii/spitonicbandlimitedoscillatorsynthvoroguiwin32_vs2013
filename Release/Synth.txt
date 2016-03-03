@@ -1,0 +1,2 @@
+parametername	parametervalue	parameterxposition	parameteryposition
+blend	0.987109	545.510803	385.514038
